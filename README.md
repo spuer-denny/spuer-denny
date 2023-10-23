@@ -6,11 +6,10 @@
     </a>
   </div>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=super-denny)](https://github.com/ryo-ma/github-profile-trophy)
 
  <span > 
    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=java&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Vue-oringe?style=flat-square&logo=vuedotjs&logoColor=#4FC08D" /> 
+   <img src="https://img.shields.io/badge/-Vue-oringe?style=flat-square&logo=vuedotjs&logoColor=#2450B2" /> 
  </span>
 
 
