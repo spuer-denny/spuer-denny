@@ -6,7 +6,7 @@
     </a>
   </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super-denny)
 
  <span > 
    <img src="https://img.shields.io/badge/-Java-DE440C?style=flat-square" />
