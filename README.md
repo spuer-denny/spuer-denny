@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super-denny)
 
 </div>
@@ -21,8 +21,7 @@
 </div>
 
 <div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 
 </div>
 
