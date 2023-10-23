@@ -10,7 +10,7 @@
 
  <span > 
    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=java&logoColor=white" />
-   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=vuedotjs&logoColor=#4FC08D" /> 
+   <img src="https://img.shields.io/badge/-Vue-oringe?style=flat-square&logo=vuedotjs&logoColor=#4FC08D" /> 
  </span>
 
 
