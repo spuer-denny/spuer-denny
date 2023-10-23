@@ -2,9 +2,11 @@
   
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Lorin 洛林&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=super-denny)](https://github.com/ryo-ma/github-profile-trophy)
 
  <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
