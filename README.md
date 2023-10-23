@@ -8,8 +8,8 @@
 
 
  <span > 
-   <img src="https://img.shields.io/badge/-Java-DE440C?style=flat-square&logo=Java&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Vue-26BF15?style=flat-square&logo=vuedotjs&logoColor=blue" /> 
+   <img src="https://img.shields.io/badge/-Java-DE440C?style=flat-square" />
+   <img src="https://img.shields.io/badge/-Vue-26BF15?style=flat-square" /> 
  </span>
 
 
